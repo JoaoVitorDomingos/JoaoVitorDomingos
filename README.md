@@ -1,3 +1,7 @@
+<img align="right" height="300" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg"  />
+
+###
+
 <h1 align="left">Seja Bem Vindo! Me chamo João Vitor</h1>
 
 ###
@@ -6,7 +10,7 @@
 
 ###
 
-<h2 align="left">Linguagens e Tecnologias:</h2>
+<h2 align="left">Linguagens e Tecnologias</h2>
 
 ###
 
