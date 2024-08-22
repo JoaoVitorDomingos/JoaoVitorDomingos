@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="300" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg"  />
+<img align="right" height="300" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg"/>
 
 ###
 
@@ -8,7 +8,11 @@
 
 ###
 
-<p align="left">Desenvolvedor Front-end.<br>Cursando Ciências da Computação na Unespar.<br>Fluente em Inglês</p>
+- 👨‍💻 Desenvolvedor Front-end.
+- 🖥️ Cursando Ciências da Computação na Unespar.
+- 🎓 Fluente em Inglês.
+- 📓 [Meu Portfolio]()
+- 🧑 Mais Sobre Mim
 
 ###
 
