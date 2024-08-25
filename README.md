@@ -11,7 +11,7 @@
 - 👨‍💻 Desenvolvedor Front-end.
 - 🖥️ Cursando Ciências da Computação na Unespar.
 - 🎓 Fluente em Inglês.
-- 📓 [Meu Portfolio]()
+<!-- - 📓 [Meu Portfolio]() -->
 <details>
   <summary>🧑 Mais Sobre Mim</summary>
   <p>Me interessei por programação em 2020, realizando cursos na Alura de lógica de programação, desenvolvimento web, entre outros, a partir disto comecei a me aprofundar mais neste mundo.</p>
