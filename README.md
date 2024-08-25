@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="300" src="imagens/img1-1280.jpg"/>
+<img align="right" height="350" src="imagens/img1-1280.jpg"/>
 
 ###
 
