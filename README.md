@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="300" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg"  />
+<img align="right" height="300" src="https://cdn.pixabay.com/photo/2024/04/09/03/04/ai-generated-8684869_1280.jpg"/>
 
 ###
 
@@ -8,7 +8,18 @@
 
 ###
 
-<p align="left">Desenvolvedor Front-end.<br>Cursando Ciências da Computação na Unespar.<br>Fluente em Inglês</p>
+- 👨‍💻 Desenvolvedor Front-end.
+- 🖥️ Cursando Ciências da Computação na Unespar.
+- 🎓 Fluente em Inglês.
+<!-- - 📓 [Meu Portfolio]() -->
+<details>
+  <summary>🧑 Mais Sobre Mim</summary>
+  <p>Me interessei por programação em 2020, realizando cursos na Alura de lógica de programação, desenvolvimento web, entre outros, a partir disto comecei a me aprofundar mais neste mundo.</p>
+  <p>Atualmente curso Ciência da Computação na UNESPAR, Universidade Estadual do Paraná, estou no primeiro ano aprendendo a liguagem de programação C.</p>
+  <p>Sou fluente em inglês, me formei na escola CNA, e realizei o Cambridge Exam em 2022, obtendo B2 como nota.</p>
+  <p>Também já estudei sobre a Engine Unity, programando alguns jogos simples e aprendendo C#, sendo assim, possuo básicos conhecimentos sobre isto.</p>
+  
+</details>
 
 ###
 
