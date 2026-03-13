@@ -15,11 +15,16 @@
 - 📓 [Meu Portfolio](https://joaovitordomingos.github.io/Portfolio/)
 <details>
   <summary>🧑 Mais Sobre Mim</summary>
-  <p>Me interessei por programação em 2020, realizando cursos na Alura de lógica de programação, desenvolvimento web, entre outros, a partir disto comecei a me aprofundar mais neste mundo.</p>
-  <p>Atualmente curso Ciência da Computação na UNESPAR, Universidade Estadual do Paraná. Estou no meu segundo ano de graduação, faço parte da Empresa Junior do curso, Pegasus, sendo Assessor em Projetos.</p>
-  <p>Sou fluente em inglês, me formei na escola CNA, e realizei o Cambridge Exam em 2022, obtendo B2 como nota.</p>
-  <p>Também já estudei sobre a Engine Unity, programando alguns jogos simples e aprendendo C#, sendo assim, possuo básicos conhecimentos sobre isto.</p>
   
+  <p>Me interessei por programação em 2020, quando comecei a estudar lógica de programação, desenvolvimento web e outros temas por meio de cursos na Alura. Desde então, venho me aprofundando cada vez mais na área de tecnologia.</p>
+  
+  <p>Atualmente curso Ciência da Computação na UNESPAR (Universidade Estadual do Paraná). Também faço parte da Empresa Júnior do curso, Pegasus, onde atuo como Diretor de Projetos, participando da organização e desenvolvimento de projetos tecnológicos.</p>
+  
+  <p>Tenho experiência com HTML, CSS, JavaScript, Bootstrap, WordPress, Git e GitHub, além de conhecimentos em Java e C adquiridos durante a graduação.</p>
+  
+  <p>Já explorei a engine Unity, onde desenvolvi alguns jogos simples e adquiri conhecimentos básicos em C#.</p>
+  
+  <p>Sou fluente em inglês, certificado pelo Cambridge Exam (B2) em 2022 após concluir minha formação na escola CNA.</p>
 </details>
 
 ###
@@ -36,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
 </div>
 
 ###
@@ -45,7 +52,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
 ###
